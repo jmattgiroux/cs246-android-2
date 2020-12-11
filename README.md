@@ -44,6 +44,7 @@ Screenshots:
 
 List of Useful Websites:
 
+- https://developer.android.com/training/basics/firstapp
 - https://en.wikipedia.org/wiki/Java_(programming_language)
 - https://www.w3schools.com/java/default.asp
 - https://docs.oracle.com/en/java/javase/index.html
