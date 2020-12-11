@@ -10,7 +10,7 @@ It is to then display the capitalization"
 
 - Have at least one screen (DONE)
 - Be interactive with the user (DONE)
-- Be helpful in performing a task that you, or someone you know, do on a frequent basis (DONE: I had to use SQL a lot this semester, and I'd sometimes need to capitalize a whole bunch of text)
+- Be helpful in performing a task that you, or someone you know, do on a frequent basis (DONE: I had to use SQL a lot this semester, and I'd sometimes need to capitalize a whole bunch of text; although the newline bug in this app is kind of a dealbreaker, since everything in SQL needs to be laid out nicely...)
 - Run successfully on an Android device (or on an emulator) (DONE)
 
 
