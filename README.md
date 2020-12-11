@@ -37,11 +37,11 @@ Screenshots:
 
 - This is a gif of the app running; it calculates change, and handles invalid input without crashing.
 
-![gif]()
+![gif](https://github.com/jmattgiroux/cs246-android-2/blob/main/capitalizationApplication.gif)
 
 - This is a screenshot of a bug the app has; if a newline character precedes a word, that word isn't capitalized correctly for the title case or normal case operations.
 
-![bug screenshot]()
+![bug screenshot](https://github.com/jmattgiroux/cs246-android-2/blob/main/Screenshot%20(129).png)
 
 
 List of Useful Websites:
